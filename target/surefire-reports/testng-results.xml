@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Inetbanking" duration-ms="35733" started-at="2018-09-07T20:10:15Z" finished-at="2018-09-07T20:10:51Z">
+    <groups>
+    </groups>
+    <test name="Bank App Test" duration-ms="35733" started-at="2018-09-07T20:10:15Z" finished-at="2018-09-07T20:10:51Z">
+      <class name="com.qa.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.qa.TestCases.TC_LoginTest_001@56aac163]" name="Setup" is-config="true" duration-ms="7680" started-at="2018-09-07T20:10:15Z" finished-at="2018-09-07T20:10:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.TestCases.TC_LoginTest_001@56aac163]" name="loginTest" duration-ms="13240" started-at="2018-09-07T20:10:23Z" finished-at="2018-09-07T20:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.TC_LoginTest_001@56aac163]" name="tearDown" is-config="true" duration-ms="106" started-at="2018-09-07T20:10:36Z" finished-at="2018-09-07T20:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.TC_LoginTest_001 -->
+      <class name="com.qa.TestCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.qa.TestCases.TC_AddCustomerTest_003@1f7030a6]" name="Setup" is-config="true" duration-ms="5791" started-at="2018-09-07T20:10:36Z" finished-at="2018-09-07T20:10:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.TestCases.TC_AddCustomerTest_003@1f7030a6]" name="Setup" duration-ms="8807" started-at="2018-09-07T20:10:42Z" finished-at="2018-09-07T20:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.TC_AddCustomerTest_003@1f7030a6]" name="tearDown" is-config="true" duration-ms="92" started-at="2018-09-07T20:10:51Z" finished-at="2018-09-07T20:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.TC_AddCustomerTest_003 -->
+    </test> <!-- Bank App Test -->
+  </suite> <!-- Inetbanking -->
+</testng-results>

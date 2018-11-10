@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Inetbanking">
+
+<listeners>
+<listener class-name="com.qa.ExtentReports.ExtentReporter"></listener>
+</listeners>
+
+
+
+  <test name="Bank App Test">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.qa.TestCases.TC_LoginTest_001"/>
+     <!--  <class name="com.qa.TestCases.TC_LoginTDD_002"/>  --> 
+       <class name="com.qa.TestCases.TC_AddCustomerTest_003"/>
+       <class name="com.qa.TestCases.TC_NewCustomerSuccesPage_004"></class>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+ <!-- <test name="Bank App Test1">
+  <parameter name="browser" value="firefox"></parameter>
+    <classes>
+      <class name="com.qa.TestCases.TC_LoginTest_001"/>
+    </classes>
+  </test> -->    <!-- Test -->   
+</suite> <!-- Suite -->

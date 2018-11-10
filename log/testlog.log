@@ -1,0 +1,130 @@
+URL is opened
+User name is entered
+password is entered
+Click on login button
+Login test passed
+2018-09-07 20:19:21,296 - Inetbanking -INFO - URL is opened
+2018-09-07 20:19:21,454 - Inetbanking -INFO - User name is entered
+2018-09-07 20:19:21,749 - Inetbanking -INFO - password is entered
+2018-09-07 20:19:26,022 - Inetbanking -INFO - Click on login button
+2018-09-07 20:19:26,030 - Inetbanking -INFO - Login test passed
+2018-09-07 20:47:30,301 - Inetbanking -INFO - URL is opened
+2018-09-07 20:47:30,462 - Inetbanking -INFO - User name is entered
+2018-09-07 20:47:30,548 - Inetbanking -INFO - password is entered
+2018-09-07 20:47:36,788 - Inetbanking -INFO - Click on login button
+2018-09-07 20:47:36,798 - Inetbanking -INFO - Login test passed
+2018-09-07 20:56:55,678 - Inetbanking -INFO - URL is opened
+2018-09-07 20:56:55,825 - Inetbanking -INFO - User name is entered
+2018-09-07 20:56:55,892 - Inetbanking -INFO - password is entered
+2018-09-07 20:56:58,060 - Inetbanking -INFO - Click on login button
+2018-09-07 20:56:58,069 - Inetbanking -INFO - Login test passed
+2018-09-07 21:04:48,943 - Inetbanking -INFO - URL is opened
+2018-09-07 21:04:49,480 - Inetbanking -INFO - User name is entered
+2018-09-07 21:04:49,564 - Inetbanking -INFO - password is entered
+2018-09-07 21:04:51,478 - Inetbanking -INFO - Click on login button
+2018-09-07 21:04:51,486 - Inetbanking -INFO - Login test passed
+2018-09-07 21:06:03,333 - Inetbanking -INFO - URL is opened
+2018-09-07 21:06:03,717 - Inetbanking -INFO - User name is entered
+2018-09-07 21:06:03,804 - Inetbanking -INFO - password is entered
+2018-09-07 21:06:07,715 - Inetbanking -INFO - Click on login button
+2018-09-07 21:06:07,723 - Inetbanking -INFO - Login test passed
+2018-09-07 21:06:17,466 - Inetbanking -INFO - URL is opened
+2018-09-07 21:06:17,970 - Inetbanking -INFO - User name is entered
+2018-09-07 21:06:18,023 - Inetbanking -INFO - password is entered
+2018-09-07 21:06:20,310 - Inetbanking -INFO - Click on login button
+2018-09-07 21:06:20,321 - Inetbanking -INFO - Login test passed
+2018-09-07 21:11:14,307 - Inetbanking -INFO - URL is opened
+2018-09-07 21:11:14,728 - Inetbanking -INFO - User name is entered
+2018-09-07 21:11:14,800 - Inetbanking -INFO - password is entered
+2018-09-07 21:11:17,034 - Inetbanking -INFO - Click on login button
+2018-09-07 21:11:17,042 - Inetbanking -INFO - Login test passed
+2018-09-07 23:01:34,308 - Inetbanking -INFO - URL is opened
+2018-09-07 23:01:35,958 - Inetbanking -INFO - User name is entered
+2018-09-07 23:01:36,072 - Inetbanking -INFO - password is entered
+2018-09-07 23:01:40,410 - Inetbanking -INFO - Click on login button
+2018-09-07 23:01:40,419 - Inetbanking -INFO - Login test passed
+2018-09-07 23:05:01,465 - Inetbanking -INFO - URL is opened
+2018-09-07 23:05:01,749 - Inetbanking -INFO - User name is entered
+2018-09-07 23:05:01,818 - Inetbanking -INFO - password is entered
+2018-09-07 23:05:05,257 - Inetbanking -INFO - Click on login button
+2018-09-07 23:05:05,278 - Inetbanking -INFO - Login test passed
+2018-09-07 23:08:34,665 - Inetbanking -INFO - URL is opened
+2018-09-07 23:08:35,076 - Inetbanking -INFO - User name is entered
+2018-09-07 23:08:35,149 - Inetbanking -INFO - password is entered
+2018-09-07 23:08:40,737 - Inetbanking -INFO - Click on login button
+2018-09-07 23:08:40,746 - Inetbanking -INFO - Login test passed
+2018-09-08 00:08:08,381 - Inetbanking -INFO - URL is opened
+2018-09-08 00:08:08,769 - Inetbanking -INFO - User name is entered
+2018-09-08 00:08:08,850 - Inetbanking -INFO - password is entered
+2018-09-08 00:08:10,738 - Inetbanking -INFO - Click on login button
+2018-09-08 00:08:10,746 - Inetbanking -INFO - Login test passed
+2018-09-08 00:08:33,437 - Inetbanking -INFO - URL is opened
+2018-09-08 00:08:34,453 - Inetbanking -INFO - user name is entered
+2018-09-08 00:08:34,527 - Inetbanking -INFO - password  is entered
+2018-09-08 00:08:37,197 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:08:38,184 - Inetbanking -INFO - User clicked on logout button
+2018-09-08 00:08:38,197 - Inetbanking -INFO - Pop up is accepted
+2018-09-08 00:08:42,798 - Inetbanking -INFO - user name is entered
+2018-09-08 00:08:42,867 - Inetbanking -INFO - password  is entered
+2018-09-08 00:08:43,363 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:08:43,380 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 00:08:45,482 - Inetbanking -INFO - user name is entered
+2018-09-08 00:08:45,558 - Inetbanking -INFO - password  is entered
+2018-09-08 00:08:45,982 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:08:46,058 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 00:08:48,150 - Inetbanking -INFO - user name is entered
+2018-09-08 00:08:48,245 - Inetbanking -INFO - password  is entered
+2018-09-08 00:08:48,649 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:08:48,730 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 00:11:51,225 - Inetbanking -INFO - URL is opened
+2018-09-08 00:11:51,617 - Inetbanking -INFO - User name is entered
+2018-09-08 00:11:51,742 - Inetbanking -INFO - password is entered
+2018-09-08 00:11:55,243 - Inetbanking -INFO - Click on login button
+2018-09-08 00:11:55,251 - Inetbanking -INFO - Login test passed
+2018-09-08 00:12:02,378 - Inetbanking -INFO - URL is opened
+2018-09-08 00:12:03,368 - Inetbanking -INFO - user name is entered
+2018-09-08 00:12:03,432 - Inetbanking -INFO - password  is entered
+2018-09-08 00:12:09,369 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:12:10,661 - Inetbanking -INFO - User clicked on logout button
+2018-09-08 00:12:10,672 - Inetbanking -INFO - Pop up is accepted
+2018-09-08 00:12:15,384 - Inetbanking -INFO - user name is entered
+2018-09-08 00:12:15,460 - Inetbanking -INFO - password  is entered
+2018-09-08 00:12:15,908 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:12:15,945 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 00:12:19,596 - Inetbanking -INFO - user name is entered
+2018-09-08 00:12:19,672 - Inetbanking -INFO - password  is entered
+2018-09-08 00:12:20,779 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:12:20,819 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 00:12:43,612 - Inetbanking -INFO - user name is entered
+2018-09-08 00:12:43,734 - Inetbanking -INFO - password  is entered
+2018-09-08 00:12:44,491 - Inetbanking -INFO - clicked on login button
+2018-09-08 00:12:44,526 - Inetbanking -INFO - User goes to alert and accept
+2018-09-08 01:11:16,571 - Inetbanking -INFO - URL is opened
+2018-09-08 01:11:16,829 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 01:12:48,938 - Inetbanking -INFO - URL is opened
+2018-09-08 01:12:49,228 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 01:19:33,309 - Inetbanking -INFO - URL is opened
+2018-09-08 01:19:59,462 - Inetbanking -INFO - URL is opened
+2018-09-08 01:20:02,994 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 01:40:23,368 - Inetbanking -INFO - URL is opened
+2018-09-08 01:40:23,704 - Inetbanking -INFO - User name is entered
+2018-09-08 01:40:23,799 - Inetbanking -INFO - password is entered
+2018-09-08 01:40:36,763 - Inetbanking -INFO - Click on login button
+2018-09-08 01:40:36,774 - Inetbanking -INFO - Login test passed
+2018-09-08 01:40:42,464 - Inetbanking -INFO - URL is opened
+2018-09-08 01:40:45,242 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 12:26:01,474 - Inetbanking -INFO - URL is opened
+2018-09-08 12:26:01,794 - Inetbanking -INFO - User name is entered
+2018-09-08 12:26:01,892 - Inetbanking -INFO - password is entered
+2018-09-08 12:26:04,479 - Inetbanking -INFO - Click on login button
+2018-09-08 12:26:04,488 - Inetbanking -INFO - Login test passed
+2018-09-08 12:26:11,282 - Inetbanking -INFO - URL is opened
+2018-09-08 12:26:15,251 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 12:27:28,614 - Inetbanking -INFO - URL is opened
+2018-09-08 12:27:28,988 - Inetbanking -INFO - User name is entered
+2018-09-08 12:27:29,057 - Inetbanking -INFO - password is entered
+2018-09-08 12:27:31,592 - Inetbanking -INFO - Click on login button
+2018-09-08 12:27:31,600 - Inetbanking -INFO - Login test passed
+2018-09-08 12:27:39,843 - Inetbanking -INFO - URL is opened
+2018-09-08 12:27:43,284 - Inetbanking -INFO - Provide customer details ......
+2018-09-08 12:27:55,945 - Inetbanking -INFO - URL is opened
