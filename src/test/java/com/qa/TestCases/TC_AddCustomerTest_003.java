@@ -44,6 +44,8 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		addcust.CustomerPassword("wefwrtwr3");
 		addcust.clickonSubmit();
 		
+	//	captureScreen(driver, jsgf);
+		
 		boolean flag = driver.getPageSource().contains("");
 		if(flag==true)
 		{

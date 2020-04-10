@@ -34,13 +34,15 @@ public class TC_LoginTest_001 extends BaseClass {
 		{
 			logger.info("Login test passed");
 			AssertJUnit.assertTrue(true);
+			
+			driver.switchTo().alert().dismiss();
 		}
 		
 		else
 		{
 			logger.info("Login test failed");
 			AssertJUnit.assertTrue(false);
-			captureScreen(driver, "loginTest");
+			captureScreen(driver,"loginTest");
 		}
 		
 		

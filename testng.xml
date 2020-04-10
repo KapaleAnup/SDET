@@ -15,6 +15,7 @@
      <!--  <class name="com.qa.TestCases.TC_LoginTDD_002"/>  --> 
        <class name="com.qa.TestCases.TC_AddCustomerTest_003"/>
        <class name="com.qa.TestCases.TC_NewCustomerSuccesPage_004"></class>
+       <class name="com.qa.TestCases.TC_EditCustomerTest"></class>
     </classes>
   </test> <!-- Test -->
   

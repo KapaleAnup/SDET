@@ -1,0 +1,14 @@
+com/Excel/Utility/Xls_Reader.class
+com/qa/TestCases/TC_EditCustomerTest.class
+com/qa/TestCases/TC_LoginTDD_002.class
+com/qa/config/ReadConfig.class
+com/qa/PageObject/AddCustomerPage.class
+com/qa/TestCases/TC_AddCustomerTest_003.class
+com/qa/CommanData/BaseClass.class
+com/qa/TestCases/TC_LoginTest_001.class
+com/qa/ExtentReports/ExtentReporter.class
+com/qa/PageObject/LoginPage.class
+com/qa/PageObject/EditCustomerPage.class
+com/qa/utilities/TestUtil.class
+com/qa/PageObject/AddCustomerSuccessPage.class
+com/qa/TestCases/TC_NewCustomerSuccesPage_004.class

@@ -7,6 +7,13 @@
   <test thread-count="5" name="Bank App Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.qa.TestCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+          <include name="AddnewCustomerPageTest"/>
+        </methods>
+      </class> <!-- com.qa.TestCases.TC_AddCustomerTest_003 -->
       <class name="com.qa.TestCases.TC_NewCustomerSuccesPage_004">
         <methods>
           <include name="validateSuccessPage"/>
@@ -14,6 +21,22 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.qa.TestCases.TC_NewCustomerSuccesPage_004 -->
+      <class name="com.qa.TestCases.TC_LoginTest_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.TestCases.TC_LoginTest_001 -->
+      <class name="com.qa.TestCases.TC_EditCustomerTest">
+        <methods>
+          <include name="clickonSubmitbutton"/>
+          <include name="getEditCustomerId"/>
+          <include name="ClickonEditCustomerTab"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.TestCases.TC_EditCustomerTest -->
     </classes>
   </test> <!-- Bank App Test(failed) -->
 </suite> <!-- Failed suite [Inetbanking] -->
